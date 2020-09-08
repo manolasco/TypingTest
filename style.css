@@ -9,7 +9,7 @@ select,
 textarea {
 	font-family: 'Source Sans Pro', 'Helvetica', Arial, sans-serif;
 	font-size: 18px;
-	line-height: 1.5;
+	line-height: 1;
 }
 
 h1,
@@ -120,7 +120,7 @@ body {
 }
 
 .intro {
-    padding: 2em 2em;
+    padding: 1em 1em;
     color: #ffffff;
     background: #429890;
 }
